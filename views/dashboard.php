@@ -107,7 +107,7 @@ if (!isset($_SESSION['user_id'])) {
     <div id="busInfo" style="position: absolute; top: 10px; right: 10px; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.5); max-height: 300px; overflow-y: auto;"></div>
 
     <!-- Scripts -->
-    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYrPjaeqO13iPTf40bI1rkU8OF4FOAIis&libraries=geometry,places&callback=initMap"></script>
+    <script async src="Tambien va el código de api"></script>
     <script src="../js/routes.js"></script>
     <script src="../js/dashboard.js"></script>
         
