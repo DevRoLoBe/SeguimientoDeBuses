@@ -12,7 +12,7 @@ if (!isset($_SESSION['user_id'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
     <link rel="stylesheet" href="../css/styles.css">
-    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYrPjaeqO13iPTf40bI1rkU8OF4FOAIis&libraries=maps,marker&callback=initMap"></script>
+    <script async src="va el Api de Google, generado po tí"></script>
     <script src="../js/script.js" defer></script>
     <style>
         /* Estilos adicionales para el modal de bienvenida */
